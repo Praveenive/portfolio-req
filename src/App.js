@@ -15,11 +15,8 @@ function App() {
   return (
     <div className="App">
       <Routes>
-<<<<<<< HEAD
+
         <Route exact path='/' element={<Homepage/>}></Route>
-=======
-       
->>>>>>> e40ea64fe230c336867430e2a0a3e5721d462bc7
         <Route path='/zenclass' element={<Zenclass/>}></Route>
         <Route path='/foodapp' element={<Foodapp/>}></Route>
         <Route path='/interview' element={<Interviewapp/>}></Route>
