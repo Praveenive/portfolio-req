@@ -40,3 +40,6 @@ h3{
 .gap{
   margin-left: 50px;
 }
+.step{
+  gap:2rem
+}
